@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 3, 2017
+
+**Today's Progress**: Same as yesterday....using jQuery to submit multiple forms on one page in Rails.
+
+**Thoughts:** Tried multiple different things....not working yet. Got an InvalidAuthenticityToken error, so maybe submitting forms via xhr is not the best way to go. :( Didn't get a full hour, but I'm counting it anyway ;)
+
+**Link to work:** It's proprietary work that I can't share yet, but here's a link to the [tweet](https://twitter.com/cockerhamAndrew/status/816281346054258688).
+
 ### Day 1: January 2, 2017
 
 **Today's Progress**: Worked on submitting multiple forms on a single Rails page.
