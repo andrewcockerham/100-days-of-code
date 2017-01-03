@@ -4,7 +4,7 @@
 
 **Today's Progress**: Same as yesterday....using jQuery to submit multiple forms on one page in Rails.
 
-**Thoughts:** Tried multiple different things....not working yet. Got an InvalidAuthenticityToken error, so maybe submitting forms via xhr is not the best way to go. :( Didn't get a full hour, but I'm counting it anyway ;)
+**Thoughts:** Tried multiple different things....not working yet. Got an InvalidAuthenticityToken error, so maybe submitting forms via xhr is not the best way to go. :( Also created an infinite Javascript loop (twice!), so that was fun. Force close Chrome tabs [like this](https://css-tricks.com/force-quit-tab-google-chrome/), although it worked for one tab, but not for another. Didn't get a full hour, but I'm counting it anyway ;)
 
 **Link to work:** It's proprietary work that I can't share yet, but here's a link to the [tweet](https://twitter.com/cockerhamAndrew/status/816281346054258688).
 
