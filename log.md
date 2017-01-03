@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 2, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on submitting multiple forms on a single Rails page.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** This is a harder problem than it should be. I tried implementing solutions people suggested [here](http://vicfriedman.github.io/blog/2015/07/18/create-multiple-objects-from-single-form-in-rails/) and on Stack Overflow [here](http://stackoverflow.com/questions/972857/multiple-objects-in-a-rails-form) and [here](http://stackoverflow.com/questions/23791761/creating-multiple-objects-in-a-form-rails/23791879#23791879), but couldn't get them to work with what I was doing. I tried using the [Surveyor gem](https://github.com/NUBIC/surveyor), but its not in development anymore and I couldn't get it working with Rails 5. If someone knows of a good way to do this, please share! Finally made the most progress implementing my own solution of using Javascript to iterate through the forms, submitting each one. Made progress, but not working yet. I need to be coding more regularly, and need a better and deeper understanding of how Rails works, and then I think I could implement these things so much faster!
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** It's proprietary work that I can't share yet, but here's a link to the [tweet](https://twitter.com/cockerhamAndrew/status/816115630365691904).
