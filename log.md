@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 4, 2017
+
+**Today's Progress**: Felt better about my progess. A new day, a new perspective.
+
+**Thoughts:** Trying to use the gon gem and code in the create action in the controller to
+check when each form is saved, then notify the view that it can now submit the next form. Also thinking that overall the multiform on a single page is maybe not the best strategy.
+Maybe I should switch to figuring out how to submit all in a single form.
+
+**Link to work:** It's proprietary work that I can't share yet, but here's a link to the [tweet](https://twitter.com/cockerhamAndrew/status/816644858068746240).
+
 ### Day 2: January 3, 2017
 
 **Today's Progress**: Same as yesterday....using jQuery to submit multiple forms on one page in Rails.
