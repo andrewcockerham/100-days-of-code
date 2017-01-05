@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 5, 2017
+
+**Today's Progress**: Lots of time. Still not working
+
+**Thoughts:** Went back to trying to submit multiple records on a single form....still can't get it to work. The 'name' attributes need to be unique....but then if I do that it messes up the params :()
+
+**Link to work:**
+
 ### Day 3: January 4, 2017
 
 **Today's Progress**: Felt better about my progess. A new day, a new perspective.
