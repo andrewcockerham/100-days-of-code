@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 16, 2017
+
+**Today's Progress**: FINALLY got submitting multiple records on a single form working in Rails.
+
+**Thoughts:** Note to self: slow down. Think. Try to UNDERSTAND! Not just copy/paste
+
+**Link to work:**
+
+### Day 5: January 15, 2017
+
+**Today's Progress**: Good progress....getting close
+
+**Thoughts:** Went back and read the various posts/tutorials again to try to get an understanding. SLOWED DOWN and tried to think through exactly what was happening in the code. This helps :)
+
+**Link to work:** N/A
+
 ### Day 4: January 5, 2017
 
 **Today's Progress**: Lots of time. Still not working
