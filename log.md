@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: April 3, 2017
+
+**Today's Progress**: Added admin role, got production app running.
+
+**Thoughts:** Had trouble with the pipelines setup on heroku. I think the problem was that you have to do an initial push to the production app before you can click the 'promote to production' button on the staging app. Otherwise, the production app doesn't have a database setup, which is the problem I had.
+
+Also, note that although there is a 3 month gap between the previous day, I was coding a lot, just forgot to document it here.
+
 ### Day 6: January 16, 2017
 
 **Today's Progress**: FINALLY got submitting multiple records on a single form working in Rails.
